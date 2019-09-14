@@ -11,11 +11,14 @@
 - Dengan perintah `node` _nama_file_ pada terminal.
 
 ### Cara Menjalankan Program Soal 6
-1. Masuk Ke direktori `soal6`
+1. Masuk Ke direktori `soal6`, install dependencies dengan perintah `yarn`, dan `yarn install`
 2. Buat database arkademy di server MySQL lalu import file arkademy.sql yang sudah tersedia.
-   1. Sesuaikan kredensial host dan login MySQL pada folder `server/lib/db.js`
-3. Setelah sudah menginstall dependensi, jalankan dengan mengetik npm start
+3. Sesuaikan kredensial host dan login MySQL pada folder `server/lib/db.js`
+4. Setelah sudah menginstall dependensi, jalankan dengan perintah `yarn start`
 
 ### Pertanyaan Soal Nomor 1 
 1.  Apakah Kegunaan JSON pada REST API?
   - Kegunaan JSON untuk rest api ialah sebagai format untuk bertukar data client dan server atau antar aplikasi
+
+## Capture soal nomor 6
+
