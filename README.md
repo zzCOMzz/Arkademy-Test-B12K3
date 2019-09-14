@@ -25,14 +25,12 @@
 
 [![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/1.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/1.png)
 
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)
+[![SS 2](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)
 
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/2.png)
+[![SS 3](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/3.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/3.png)
 
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/3.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/3.png)
+[![SS 4](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/4.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/4.png)
 
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/4.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/4.png)
+[![SS 5](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/5.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/5.png)
 
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/5.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/5.png)
-
-[![SS 1](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/6.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/6.png)
+[![SS 6](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/6.png)](https://raw.githubusercontent.com/zzCOMzz/Arkademy-Test-B12K3/master/soal6/Capture/6.png)
